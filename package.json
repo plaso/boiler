@@ -4,9 +4,13 @@
   "description": "Small open source proyect",
   "main": "index.js",
   "dependencies": {
+    "@zeit/next-stylus": "^0.1.0",
+    "autoprefixer-stylus": "^0.14.0",
     "next": "^6.0.3",
+    "nib": "^1.1.2",
     "react": "^16.4.1",
-    "react-dom": "^16.4.1"
+    "react-dom": "^16.4.1",
+    "stylus": "^0.54.5"
   },
   "devDependencies": {},
   "scripts": {

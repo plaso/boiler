@@ -1,0 +1,27 @@
+{
+  "name": "boiler",
+  "version": "1.0.0",
+  "description": "Small open source proyect",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^6.0.3",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plaso/boiler.git"
+  },
+  "author": "Pablo Laso Cortabitarte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plaso/boiler/issues"
+  },
+  "homepage": "https://github.com/plaso/boiler#readme"
+}
